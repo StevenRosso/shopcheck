@@ -13,3 +13,4 @@ COPY src ./src
 
 # 3. Run the tests when the container starts.
 CMD ["mvn", "-B", "test", "-Dcucumber.filter.tags=not @ui"]
+

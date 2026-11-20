@@ -1,4 +1,4 @@
-name: ShopCheck CI
+name: ShopCheck_CI
 
 on:
   push:
