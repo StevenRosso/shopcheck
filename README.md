@@ -5,7 +5,7 @@
 
 The running project for the Java with Cucumber course: a small shopping cart, tested with Cucumber and run by a CI/CD pipeline (Docker, GitHub Actions and Jenkins).
 
-## Run the tests
+## Run the tests 
 
 PowerShell, macOS Terminal or Linux:
 
